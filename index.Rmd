@@ -1,0 +1,36 @@
+---
+title: "Renee Garcia-Flores"
+image: "reneegf.jpg"
+links:
+  - label: LinkedIn
+    url: "https://linkedin.com/"
+  - label: Twitter
+    url: "https://twitter.com/SubmarineGene"
+  - label: GitHub
+    url: "https://github.com/reneegf"
+  - label: Email
+    url: "renee.graciaflores@gmail.com"
+output:
+  postcards::trestles
+---
+ 
+## Bio
+
+Frank Hermosillo studies neural networks and their applications at Google 
+Brain. His research focuses on differentiable network pruning approximation and 
+decentralized gradient inversion mechanics. He frequently collaborates with 
+researchers who study machine learning, computer vision, and cognitive science.
+His work has been featured in WIRED, The Atlantic, Newsweek, and The New York 
+Times Magazine.
+
+## Education
+
+**National Autonomous University of Mexico** | Morelos, México
+
+B.S. in Genomic Sciences | August 2018 - June 2022
+
+## Experience
+
+**Google Brain** | Principal Investigator | January 2018 - Present
+
+**Netflix** | Research Scientist | June 2014 - December 2017
