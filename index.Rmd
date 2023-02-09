@@ -2,8 +2,6 @@
 title: "Renee Garcia-Flores"
 image: "reneegf.jpg"
 links:
-  - label: LinkedIn
-    url: "https://linkedin.com/"
   - label: Twitter
     url: "https://twitter.com/SubmarineGene"
   - label: GitHub
@@ -29,8 +27,16 @@ Times Magazine.
 
 B.S. in Genomic Sciences | August 2018 - June 2022
 
-## Experience
+## Research Experience
 
-**Google Brain** | Principal Investigator | January 2018 - Present
+**Lieber Institute for Brain Development** | Post-baccalaureate researcher | February 2023 - Present
 
-**Netflix** | Research Scientist | June 2014 - December 2017
+**New York Genome Center** | Undergraduate researcher | September 2021 - Present
+
+**LANGEBIO-CINVESTAV** | Undergraduate researcher | August 2019 - June 2022
+
+**Center for Genomic Sciences, UNAM** | Undergraduate researcher | February 2019 - June 2020
+
+**LIIGH, UNAM** | Undergraduate researcher | Summer 2019
+
+**Center for Genomic Sciences, UNAM** | Undergraduate researcher | January 2019 - June 2019
