@@ -12,14 +12,9 @@ output:
   postcards::trestles
 ---
  
-## Bio
+## About myself
 
-Frank Hermosillo studies neural networks and their applications at Google 
-Brain. His research focuses on differentiable network pruning approximation and 
-decentralized gradient inversion mechanics. He frequently collaborates with 
-researchers who study machine learning, computer vision, and cognitive science.
-His work has been featured in WIRED, The Atlantic, Newsweek, and The New York 
-Times Magazine.
+I am a young mexican scientist discovering her path in science and a bioinformatician in training. I am currently working with bulk and snRNA-seq data from the brain at LIBD and identifying relevant sQTLs for lung diseases at NYGC. I'm also training for a half-marathon and enjoying eating accordingly. 
 
 ## Education
 
@@ -40,4 +35,4 @@ Times Magazine.
 <font size="4">**Center for Genomic Sciences, UNAM**</font> | <span style="color:  #6096ba;">David Zamorano-Sánchez</span></a> | <span style="color:  #495057;">Undergraduate researcher</span></a> | January 2019 - June 2019'
 
 ## Publications
-Noninvasive, low-cost RNA-sequencing enhances discovery potential of transcriptome studies. Molly Martorella, Silva Kasela, Renee Garcia-Flores, Alper Gokden, Stephane E. Castel, Tuuli Lappalainen. bioRxiv 2022.09.06.506813; doi: <a href="https://doi.org/10.1101/2022.09.06.506813"><span style="color:  #6c757d;"> https://doi.org/10.1101/2022.09.06.506813</span></a>. Preprint.
+**Noninvasive, low-cost RNA-sequencing enhances discovery potential of transcriptome studies**. Molly Martorella, Silva Kasela, Renee Garcia-Flores, Alper Gokden, Stephane E. Castel, Tuuli Lappalainen. bioRxiv 2022.09.06.506813; doi: <a href="https://doi.org/10.1101/2022.09.06.506813"><span style="color:  #6c757d;"> https://doi.org/10.1101/2022.09.06.506813</span></a>. Preprint.
