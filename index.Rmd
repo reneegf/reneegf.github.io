@@ -14,7 +14,7 @@ output:
  
 ## About myself
 
-I am a young mexican scientist discovering her path in science and a bioinformatician in training. I am currently working with bulk and snRNA-seq data from the brain at LIBD and identifying relevant sQTLs for lung diseases at NYGC. I'm also training for a half-marathon and enjoying eating accordingly. 
+I am a young mexican scientist discovering her path in science and a bioinformatician in training. I'm an incoming PhD student at [CSHL](https://www.cshl.edu/phd-program/), and I am currently working with bulk and snRNA-seq data from lateral septum and habenula at [LIBD](https://www.libd.org/). I'm also training for a half-marathon and enjoying eating accordingly. 
 
 ## Education
 
