@@ -1,6 +1,6 @@
 ---
 title: "Renee Garcia-Flores"
-image: "reneegf.jpg"
+image: "reneegf_v2.jpg"
 links:
   - label: Twitter
     url: "https://twitter.com/SubmarineGene"
@@ -14,25 +14,32 @@ output:
  
 ## About myself
 
-I am a young mexican scientist discovering her path in science and a bioinformatician in training. I'm an incoming PhD student at [CSHL](https://www.cshl.edu/phd-program/), and I am currently working with bulk and snRNA-seq data from lateral septum and habenula at [LIBD](https://www.libd.org/). I'm also training for a half-marathon and enjoying eating accordingly. 
+I am a young mexican scientist and a bioinformatician in training. In August I'll be starting my PhD at <a href="https://www.cshl.edu/phd-program/"><span style="color:  #588157;"> **CSHL**</span></a>, which I'm reallly excite about! Currently, my research focuses on analyzing bulk and snRNA-seq data derived from the lateral septum and habenula at <a href="https://www.libd.org/"><span style="color:  #588157;"> **LIBD**</span></a>. Alongside my academic pursuits, I am also dedicating time to train for a half-marathon. 
+
 
 ## Education
+
+<font size="4">**PhD student in Biological Sciences**</font> | Cold Spring Harbor Laboratory | August 2023 - Present
 
 <font size="4">**B.S. in Genomic Sciences**</font> | National Autonomous University of Mexico | August 2018 - June 2022
 
 ## Research Experience
 
-<font size="4">**Lieber Institute for Brain Development**</font> | <a href="http://lcolladotor.github.io"><span style="color:  #6096ba;"> Leonardo Collado-Torres Lab</span></a> | Post-baccalaureate researcher |  February 2023 - Present
+<font size="4">**Lieber Institute for Brain Development**</font> | <a href="http://lcolladotor.github.io"><span style="color:  #a7c957;"> Leonardo Collado-Torres Lab</span></a> | Post-baccalaureate researcher |  February 2023 - Present
 
-<font size="4">**New York Genome Center**</font> | <a href="https://tllab.org/"><span style="color:  #6096ba;"> Tuuli Lappalainen Lab</span></a> | <span style="color:  #495057;">Undergraduate researcher</span></a> | September 2021 - Present
+<font size="4">**New York Genome Center**</font> | <a href="https://tllab.org/"><span style="color:  #a7c957;"> Tuuli Lappalainen Lab</span></a> | <span style="color:  #495057;">Undergraduate researcher</span></a> | September 2021 - August 2022
 
-<font size="4">**LANGEBIO-CINVESTAV**</font> | <a href="http://www.morenolab.org/"><span style="color:  #6096ba;"> Andres Moreno-Estrada Lab</span></a> | <span style="color:  #495057;">Undergraduate researcher</span></a> | August 2019 - June 2022
+<font size="4">**LANGEBIO-CINVESTAV**</font> | <a href="http://www.morenolab.org/"><span style="color:  #a7c957;"> Andres Moreno-Estrada Lab</span></a> | <span style="color:  #495057;">Undergraduate researcher</span></a> | August 2019 - June 2021
 
-<font size="4">**Center for Genomic Sciences, UNAM**</font> | <span style="color:  #6096ba;">Julio Collado-Vides Lab</span></a> | <span style="color:  #495057;">Undergraduate researcher</span></a> | February 2019 - December 2019
+<font size="4">**Center for Genomic Sciences, UNAM**</font> | <span style="color:  #a7c957;">Julio Collado-Vides Lab</span></a> | <span style="color:  #495057;">Undergraduate researcher</span></a> | February 2019 - December 2019
 
-<font size="4">**International Laboratory for Human Genome Research, UNAM**</font> | <span style="color:  #6096ba;">María Ávila-Arcos Lab</span></a> | <span style="color:  #495057;">Undergraduate researcher</span></a> | Summer 2019
+<font size="4">**International Laboratory for Human Genome Research, UNAM**</font> | <span style="color:  #a7c957;">María Ávila-Arcos Lab</span></a> | <span style="color:  #495057;">Undergraduate researcher</span></a> | Summer 2019
 
-<font size="4">**Center for Genomic Sciences, UNAM**</font> | <span style="color:  #6096ba;">David Zamorano-Sánchez</span></a> | <span style="color:  #495057;">Undergraduate researcher</span></a> | January 2019 - June 2019'
+<font size="4">**Center for Genomic Sciences, UNAM**</font> | <span style="color:  #a7c957;">David Zamorano-Sánchez</span></a> | <span style="color:  #495057;">Undergraduate researcher</span></a> | January 2019 - June 2019
 
 ## Publications
-**Noninvasive, low-cost RNA-sequencing enhances discovery potential of transcriptome studies**. Molly Martorella, Silva Kasela, Renee Garcia-Flores, Alper Gokden, Stephane E. Castel, Tuuli Lappalainen. bioRxiv 2022.09.06.506813; doi: <a href="https://doi.org/10.1101/2022.09.06.506813"><span style="color:  #6c757d;"> https://doi.org/10.1101/2022.09.06.506813</span></a>. Preprint.
+
+**TrkB-dependent regulation of molecular signaling across septal cell types**.
+Lionel A Rodriguez, Matt N Tran, Renee Garcia-Flores, [...], Leonardo Collado Torres, Stephanie Cerceo Page, Keri Martinowich. bioRxiv 2023.06.29.547069; doi: <a href=https://doi.org/10.1101/2023.06.29.547069><span style="color: #6c757d;"> https://doi.org/10.1101/2023.06.29.547069</span></a>. Preprint.
+
+**Noninvasive, low-cost RNA-sequencing enhances discovery potential of transcriptome studies**. Molly Martorella, Silva Kasela, Renee Garcia-Flores, [...], Tuuli Lappalainen. bioRxiv 2022.09.06.506813; doi: <a href="https://doi.org/10.1101/2022.09.06.506813"><span style="color:  #6c757d;"> https://doi.org/10.1101/2022.09.06.506813</span></a>. Preprint.
