@@ -1,82 +1,45 @@
 ---
-title: "Louise Morlot"
-image: "reneegf.jpg"
+title: "Renee Garcia-Flores"
+image: "reneegf_v2.jpg"
 links:
-  - label: LinkedIn
-    url: "https://linkedin.com/in/louise-morlot-3078791ba/"
   - label: Twitter
-    url: "https://twitter.com/"
+    url: "https://twitter.com/SubmarineGene"
   - label: GitHub
-    url: "https://github.com/louisemorlot/"
-  - label: Mail
-    url: "mailto:louise.morlot@cpr.ku.dk"
+    url: "https://github.com/reneegf"
+  - label: Email
+    url: "renee.graciaflores@gmail.com"
 output:
   postcards::trestles
 ---
+ 
+## About myself
 
-```{r colorize, message = FALSE, warning=FALSE, include=FALSE}
-pal3 = c("#5B1A18")
-pal1 = c("#F1BB7B")
-pal4 = c("#D67236")
-
-colorize <- function(x, color) {
-  if (knitr::is_latex_output()) {
-    sprintf("\\textcolor{%s}{%s}", color, x)
-  } else if (knitr::is_html_output()) {
-    sprintf("<span style='color: %s;'>%s</span>", color, x)
-  } else x
-}
-```
+I am a young mexican scientist and a bioinformatician in training. In August I'll be starting my PhD at <a href="https://www.cshl.edu/phd-program/"><span style="color:  #588157;"> **CSHL**</span></a>, which I'm reallly excite about! Currently, my research focuses on analyzing bulk and snRNA-seq data derived from the lateral septum and habenula at <a href="https://www.libd.org/"><span style="color:  #588157;"> **LIBD**</span></a>. Alongside my academic pursuits, I am also dedicating time to train for a half-marathon. 
 
 
-## `r colorize("Bio", pal3)`
+## Education
 
-I am a PhD student in the [`r colorize("Mailand lab", pal1)`](https://www.cpr.ku.dk/research/proteinsignaling/mailand/) in the Center for Protein Research at University of
-Copenhagen. I am part of the [`r colorize("Copenhagen Bioscience PhD Programme", pal1)`](https://cphbiosciencephd.org/) and the Molecular Mechanisms of Disease graduate school.
+<font size="4">**PhD student in Biological Sciences**</font> | Cold Spring Harbor Laboratory | August 2023 - Present
 
-I am highly interested in understanding mechanisms of cellular stress responses and exploring pathways involved in maintaining genome integrity. 
+<font size="4">**B.S. in Genomic Sciences**</font> | National Autonomous University of Mexico | August 2018 - June 2022
 
-During my PhD I aim to develop targeted approaches combining cell biology and high resolution omics technologies to study DNA repair mechanisms and the consequences of DNA damages. 
+## Research Experience
 
----
+<font size="4">**Lieber Institute for Brain Development**</font> | <a href="http://lcolladotor.github.io"><span style="color:  #a7c957;"> Leonardo Collado-Torres Lab</span></a> | Post-baccalaureate researcher |  February 2023 - Present
 
-## `r colorize("Education", pal3)`
-|  |  |
-|:------------------------------------------------|:--------------------|
-| `r colorize("PhD in Molecular Mechanisms of Disease", pal4)` | November 2022 - present |
-Copenhagen University - Novo Nordisk Center for Protein Research | Copenhagen, Denmark |
-| **Summer course 2023** | July 2023 |
-| Statistical Analysis of Genome Scale Data | Cold Sring Harbor Laboratory |
-|<br>|   |
-| `r colorize("M.Sc. in Biotechnology & Synthetic biology", pal4)` | September 2019 - September 2021 |
-|University of Strasbourg | Strasbourg, France |
-|<br>|   |
-| `r colorize("B.Sc. in Biology & Microbiologyy", pal4)` | September 2016 - May 2019 |
-| The University of Lorraine | Nancy, France ||
+<font size="4">**New York Genome Center**</font> | <a href="https://tllab.org/"><span style="color:  #a7c957;"> Tuuli Lappalainen Lab</span></a> | <span style="color:  #495057;">Undergraduate researcher</span></a> | September 2021 - August 2022
 
----
+<font size="4">**LANGEBIO-CINVESTAV**</font> | <a href="http://www.morenolab.org/"><span style="color:  #a7c957;"> Andres Moreno-Estrada Lab</span></a> | <span style="color:  #495057;">Undergraduate researcher</span></a> | August 2019 - June 2021
 
-## `r colorize("Research projects", pal3)`
+<font size="4">**Center for Genomic Sciences, UNAM**</font> | <span style="color:  #a7c957;">Julio Collado-Vides Lab</span></a> | <span style="color:  #495057;">Undergraduate researcher</span></a> | February 2019 - December 2019
 
-`r colorize("Research engineer", pal4)` | Developing single-cell approaches in the study of malaria parasite's oocysts and mosquito midguts | [`r colorize("Oliver Billker laboratory", pal1)`](https://billkerlab.org/) | MIMS Umeå university | September 2021 - August 2022
+<font size="4">**International Laboratory for Human Genome Research, UNAM**</font> | <span style="color:  #a7c957;">María Ávila-Arcos Lab</span></a> | <span style="color:  #495057;">Undergraduate researcher</span></a> | Summer 2019
 
-`r colorize("Master thesis", pal4)` | Optimized bulk RNA-seq methods to study malaria parasite's oocysts | Oliver Billker laboratory | MIMS Umeå university | Feb 2021 - August 2021
+<font size="4">**Center for Genomic Sciences, UNAM**</font> | <span style="color:  #a7c957;">David Zamorano-Sánchez</span></a> | <span style="color:  #495057;">Undergraduate researcher</span></a> | January 2019 - June 2019
 
-`r colorize("Bachelor thesis", pal4)` | New antibiotic discovery using combined bacterial culture | [`r colorize("Hiroyasu Onaka laboratory",pal1)`](http://microbial-potential.bt.a.u-tokyo.ac.jp/en/) | Tokyo University | May 2019 - July 2019 
+## Publications
 
----
+**TrkB-dependent regulation of molecular signaling across septal cell types**.
+Lionel A Rodriguez, Matt N Tran, Renee Garcia-Flores, [...], Leonardo Collado Torres, Stephanie Cerceo Page, Keri Martinowich. bioRxiv 2023.06.29.547069; doi: <a href=https://doi.org/10.1101/2023.06.29.547069><span style="color: #6c757d;"> https://doi.org/10.1101/2023.06.29.547069</span></a>. Preprint.
 
-## `r colorize("Skills", pal3)`
-
-|  |  |
-|:------------------------------------------------|:--------------------|
-| `r colorize("Experimental", pal1)` | `r colorize("Computatinal", pal1)` |
-| Tissue Cell Culture | Python |
-| Immunofluorescence | R |
-| FACS & flow cytometry | Deep learning & neural network |
-| Genetic engineering | ImageJ |
-| High content & confocal microscopy | nf-core/RNA-seq |
-| bulk RNA-seq | nf-core/ATAC-seq | 
-| ATAC-seq | |
-| ChIP-seq | | 
-| Library preparation | ||
+**Noninvasive, low-cost RNA-sequencing enhances discovery potential of transcriptome studies**. Molly Martorella, Silva Kasela, Renee Garcia-Flores, [...], Tuuli Lappalainen. bioRxiv 2022.09.06.506813; doi: <a href="https://doi.org/10.1101/2022.09.06.506813"><span style="color:  #6c757d;"> https://doi.org/10.1101/2022.09.06.506813</span></a>. Preprint.
