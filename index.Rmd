@@ -39,7 +39,7 @@ I am a young mexican scientist and a bioinformatician in training. In August of 
 
 ## Publications
 
-**TrkB-dependent regulation of molecular signaling across septal cell types**.
-Lionel A Rodriguez, Matt N Tran, Renee Garcia-Flores, [...], Leonardo Collado Torres, Stephanie Cerceo Page, Keri Martinowich. bioRxiv 2023.06.29.547069; doi: <a href=https://doi.org/10.1101/2023.06.29.547069><span style="color: #6c757d;"> https://doi.org/10.1101/2023.06.29.547069</span></a>. Preprint.
+**TrkB-dependent regulation of molecular signaling across septal cell types**. Rodriguez, L.A., Tran, M.N., Garcia-Flores, R. et al. TrkB-dependent regulation of molecular signaling across septal cell types. Transl Psychiatry 14, 52 (2024). <a href=https://doi.org/10.1038/s41398-024-02758-6><spanstyle="color: #6c757d;"> https://doi.org/10.1038/s41398-024-02758-6</span></a>.
 
-**Noninvasive, low-cost RNA-sequencing enhances discovery potential of transcriptome studies**. Molly Martorella, Silva Kasela, Renee Garcia-Flores, [...], Tuuli Lappalainen. bioRxiv 2022.09.06.506813; doi: <a href="https://doi.org/10.1101/2022.09.06.506813"><span style="color:  #6c757d;"> https://doi.org/10.1101/2022.09.06.506813</span></a>. Preprint.
+**Noninvasive, low-cost RNA-sequencing enhances discovery potential of transcriptome studies**. Martorella, M., Kasela, S., Garcia-Flores, R. et al. Evaluation of noninvasive biospecimens for transcriptome studies. BMC Genomics 24, 790 (2023). <a href=https://doi.org/10.1186/s12864-023-09875-4><spanstyle="color: #6c757d;"> https://doi.org/10.1186/s12864-023-09875-4</span></a>.
+
