@@ -14,7 +14,7 @@ output:
  
 ## About myself
 
-I am a young mexican scientist and a bioinformatician in training. In August of 2023 I started my PhD at <a href="https://www.cshl.edu/phd-program/"><span style="color:  #588157;"> **CSHL**</span></a>. It's going great! I'm learning a lot of new and amazing things and ejoying the beautiful campus. I'm still trying to figure out the topic I want to do my researcher on but transcriptional regulation in cancer is top on the list! When I'm not in class or doing homework you can find me running- I'm training for my second half-marathon!, or having fun with my friends. 
+I am a young Mexican scientist and a bioinformatician in training. In August of 2023 I started my PhD at <a href="https://www.cshl.edu/phd-program/"><span style="color:  #588157;"> **CSHL**</span></a>. It's going great! I'm learning a lot of new and amazing things and enjoying the beautiful campus. I'm still trying to figure out the topic I want to do my research on but, transcriptional regulation in cancer is top on the list/ When I'm not in the lab you can find me running- I'm training for my second half-marathon!, or having fun with my friends. 
 
 
 ## Education
