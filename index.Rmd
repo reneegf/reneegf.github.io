@@ -1,6 +1,6 @@
 ---
 title: "Renee Garcia-Flores"
-image: "reneegf_v2.jpg"
+image: "reneegf_v3.jpg"
 links:
   - label: Twitter
     url: "https://twitter.com/SubmarineGene"
