@@ -6,8 +6,8 @@ links:
     url: "https://github.com/reneegf"
   - label: ORCID
     url: "https://orcid.org/my-orcid?orcid=0000-0001-8812-120X"
-  - label: Twitter
-    url: "https://twitter.com/SubmarineGene"
+  - label: Bluesky
+    url: "https://bsky.app/profile/freneegf.bsky.social"
   - label: Email
     url: "mailto:garciafl@cshl.edu"
 output:
@@ -16,12 +16,12 @@ output:
  
 ## About myself
 
-I am a young Mexican scientist and a bioinformatician in training. In August of 2023 I started my PhD at <a href="https://www.cshl.edu/phd-program/"><span style="color:  #515897;"> **Cold Spring Harbor Laboratory**</span></a>. It's going great! I'm learning a lot of new and amazing things and enjoying the beautiful campus. I'm still trying to figure out the topic I want to do my research on, but transcriptional regulation in cancer is at the top of the list. When I'm not in the lab, you can find me running—I'm training for my second half-marathon!—or having fun with my friends.
+I am a young Mexican scientist and a bioinformatician in training. In August of 2023 I started my PhD at <a href="https://www.cshl.edu/phd-program/"><span style="color:  #60712F;"> **Cold Spring Harbor Laboratory**</span></a>. It's going great! I'm learning a lot of new and amazing things and enjoying the beautiful campus. I'm still trying to figure out the topic I want to do my research on, but transcriptional regulation in cancer is at the top of the list. When I'm not in the lab, you can find me running—I'm training for my second half-marathon!—or having fun with my friends.
 
 
-## Education
+## `r fontawesome::fa("user", fill = "#515897", prefer_type="solid")` Education
 
-<font size="4">**PhD student in Biological Sciences**</font> | Cold Spring Harbor Laboratory | August 2023 - Present
+<font size="4">**PhD Candidate in Biological Sciences**</font> | Cold Spring Harbor Laboratory | August 2023 - Present
 
 <font size="4">**B.S. in Genomic Sciences**</font> | National Autonomous University of Mexico | August 2018 - June 2022
 
@@ -44,4 +44,5 @@ I am a young Mexican scientist and a bioinformatician in training. In August of 
 **TrkB-dependent regulation of molecular signaling across septal cell types**. Rodriguez, L.A., Tran, M.N., Garcia-Flores, R. et al. TrkB-dependent regulation of molecular signaling across septal cell types. Transl Psychiatry 14, 52 (2024). <a href="https://doi.org/10.1038/s41398-024-02758-6"><span style="color: #6c757d;"> https://doi.org/10.1038/s41398-024-02758-6</span></a>.
 
 **Noninvasive, low-cost RNA-sequencing enhances discovery potential of transcriptome studies**. Martorella, M., Kasela, S., Garcia-Flores, R. et al. Evaluation of noninvasive biospecimens for transcriptome studies. BMC Genomics 24, 790 (2023). <a href="https://doi.org/10.1186/s12864-023-09875-4"><span style="color: #6c757d;"> https://doi.org/10.1186/s12864-023-09875-4</span></a>.
+
 
