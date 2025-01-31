@@ -16,8 +16,9 @@ output:
  
 ## About myself
 
-I am a young Mexican scientist and bioinformatician in training. Since August 2023, I've been pursuing my PhD at <a href="https://www.cshl.edu"><span style="color: #515897;"><b>Cold Spring Harbor Laboratory</b></span></a>, studying how diet influences cancer progression in the Beyaz Lab. I also serve as Co-President of DIAS, an affinity group at CSHL dedicated to advocate for diversity and inclusion in STEM.
+I am a young Mexican scientist and bioinformatician in training. Since August 2023, I've been pursuing my PhD at <a href="https://www.cshl.edu"><span style="color: #515897;"><b>Cold Spring Harbor Laboratory</b></span></a>, studying how diet influences cancer progression in the Beyaz Lab. I also serve as Co-President of <a href="https://www.cshl.edu/research/career-development/dias/"><span style="color: #515897;"><b>DIAS</b></span></a>, an affinity group at CSHL dedicated to advocate for diversity and inclusion in STEM.
 Outside the lab, I’m usually running, reading emotionally intense fiction and historical novels, or spending time with friends and family.
+
 
 ## Education
 
