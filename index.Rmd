@@ -16,7 +16,7 @@ output:
  
 ## About myself
 
-I am a young Mexican scientist and bioinformatician in training. Since August 2023, I've been pursuing my PhD at <a href="https://www.cshl.edu"><span style="color: #60712F;"><b>Cold Spring Harbor Laboratory</b></span></a>, studying how diet influences cancer progression in the Beyaz Lab. I also serve as Co-President of DIAS, an affinity group at CSHL dedicated to advocate for diversity and inclusion in STEM.
+I am a young Mexican scientist and bioinformatician in training. Since August 2023, I've been pursuing my PhD at <a href="https://www.cshl.edu"><span style="color: #515897;"><b>Cold Spring Harbor Laboratory</b></span></a>, studying how diet influences cancer progression in the Beyaz Lab. I also serve as Co-President of DIAS, an affinity group at CSHL dedicated to advocate for diversity and inclusion in STEM.
 Outside the lab, I’m usually running, reading emotionally intense fiction and historical novels, or spending time with friends and family.
 
 ## Education
@@ -27,7 +27,7 @@ Outside the lab, I’m usually running, reading emotionally intense fiction and 
 
 ## Research Experience
 
-<font size="4">**Lieber Institute for Brain Development**</font> | <a href="http://lcolladotor.github.io"><span style="color:  #515897;"> Leonardo Collado-Torres Lab</span></a> | <span style="color:  #495057;">Post-baccalaureate researcher</span></a> |  February 2023 - August 2023
+<font size="4">**Lieber Institute for Brain Development**</font> | <a href="http://lcolladotor.github.io"><span style="color:  #515897;"> Leonardo Collado-Torres Lab</span></a> | <span style="color:  #515897;">Post-baccalaureate researcher</span></a> |  February 2023 - August 2023
 
 <font size="4">**New York Genome Center**</font> | <a href="https://tllab.org/"><span style="color:  #515897;"> Tuuli Lappalainen Lab</span></a> | <span style="color:  #495057;">Undergraduate researcher</span></a> | September 2021 - August 2022
 
