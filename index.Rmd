@@ -44,6 +44,7 @@ Outside the lab, I’m usually running, reading emotionally intense fiction and 
 
 **TrkB-dependent regulation of molecular signaling across septal cell types**. Rodriguez, L.A., Tran, M.N., Garcia-Flores, R. et al. TrkB-dependent regulation of molecular signaling across septal cell types. Transl Psychiatry 14, 52 (2024). <a href="https://doi.org/10.1038/s41398-024-02758-6"><span style="color: #6c757d;"> https://doi.org/10.1038/s41398-024-02758-6</span></a>.
 
-**Noninvasive, low-cost RNA-sequencing enhances discovery potential of transcriptome studies**. Martorella, M., Kasela, S., Garcia-Flores, R. et al. Evaluation of noninvasive biospecimens for transcriptome studies. BMC Genomics 24, 790 (2023). <a href="https://doi.org/10.1186/s12864-023-09875-4"><span style="color: #6c757d;"> https://doi.org/10.1186/s12864-023-09875-4</span></a>.
+**Evaluation of noninvasive biospecimens for transcriptome studies**. Martorella, M., Kasela, S., Garcia-Flores, R. et al. Evaluation of noninvasive biospecimens for transcriptome studies. BMC Genomics 24, 790 (2023). <a href="https://doi.org/10.1186/s12864-023-09875-4"><span style="color: #6c757d;"> https://doi.org/10.1186/s12864-023-09875-4</span></a>.
+
 
 
