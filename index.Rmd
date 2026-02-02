@@ -2,6 +2,8 @@
 title: "Renee Garcia-Flores"
 image: "reneegf_v3.jpg"
 links:
+  - label: LinkedIn
+    url: "https://www.linkedin.com/in/reneegf/"
   - label: GitHub
     url: "https://github.com/reneegf"
   - label: ORCID
@@ -16,9 +18,7 @@ output:
  
 ## About myself
 
-I am a young Mexican scientist and bioinformatician in training. Since August 2023, I've been pursuing my PhD at <a href="https://www.cshl.edu"><span style="color: #515897;"><b>Cold Spring Harbor Laboratory</b></span></a>, studying how diet influences cancer progression in the Beyaz Lab. I also serve as Co-President of <a href="https://www.cshl.edu/research/career-development/dias/"><span style="color: #515897;"><b>DIAS</b></span></a>, an affinity group at CSHL dedicated to advocate for diversity and inclusion in STEM.
-Outside the lab, I’m usually running, reading emotionally intense fiction and historical novels, or spending time with friends and family.
-
+I am a young Mexican scientist and bioinformatician in training. Since August 2023, I've been pursuing my PhD at <a href="https://www.cshl.edu"><span style="color: #515897;"><b>Cold Spring Harbor Laboratory</b></span></a>, where my research in the Trotman Lab focuses on prostate tissue architecture and its role in prostate cancer. I parallele, I serve as an advocate of <a href="https://www.cshl.edu/research/career-development/dias/"><span style="color: #515897;"><b>DIAS</b></span></a>, a CSHL affinity group dedicated to advancing diversity, equity, and inclusion in STEM. Outside the lab, I enjoy running, reading emotionally intense fiction and historical novels, and spending time with friends and family.
 
 ## Education
 
@@ -41,6 +41,8 @@ Outside the lab, I’m usually running, reading emotionally intense fiction and 
 <font size="4">**Center for Genomic Sciences, UNAM**</font> | <span style="color:  #515897;">David Zamorano-Sánchez</span></a> | <span style="color:  #495057;">Undergraduate researcher</span></a> | January 2019 - June 2019
 
 ## Publications
+
+**Transcriptomic analysis of the human habenula in schizophrenia**. Yalcinbas, E.A., Ajanaku, B., Nelson, E.D., Garcia-Flores, R. et al. Transcriptomic analysis of the human habenula in schizophrenia. American Journal of Psychiatry 182, 991–1006 (2025). <a href="https://doi.org/10.1176/appi.ajp.20240776"><span style="color: #6c757d;"> https://doi.org/10.1176/appi.ajp.20240776</span></a>.
 
 **TrkB-dependent regulation of molecular signaling across septal cell types**. Rodriguez, L.A., Tran, M.N., Garcia-Flores, R. et al. TrkB-dependent regulation of molecular signaling across septal cell types. Transl Psychiatry 14, 52 (2024). <a href="https://doi.org/10.1038/s41398-024-02758-6"><span style="color: #6c757d;"> https://doi.org/10.1038/s41398-024-02758-6</span></a>.
 
