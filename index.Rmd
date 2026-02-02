@@ -28,7 +28,7 @@ I am a young Mexican scientist and bioinformatician in training. Since August 20
 
 ## Research Experience
 
-<font size="4">**Lieber Institute for Brain Development**</font> | <a href="http://lcolladotor.github.io"><span style="color:  #515897;"> Leonardo Collado-Torres Lab</span></a> | <span style="color:  #515897;">Post-baccalaureate researcher</span></a> |  February 2023 - August 2023
+<font size="4">**Lieber Institute for Brain Development**</font> | <a href="http://lcolladotor.github.io"><span style="color:  #515897;"> Leonardo Collado-Torres Lab</span></a> | <span style="color: #495057;">Post-baccalaureate researcher</span></a> |  February 2023 - August 2023
 
 <font size="4">**New York Genome Center**</font> | <a href="https://tllab.org/"><span style="color:  #515897;"> Tuuli Lappalainen Lab</span></a> | <span style="color:  #495057;">Undergraduate researcher</span></a> | September 2021 - August 2022
 
